@@ -10,7 +10,7 @@ An executive-grade energy intelligence dashboard built on real U.S. EIA producti
 
 | | |
 |---|---|
-| **Live URL** | _[https://fieldsignal-ai.vercel.app/] |
+| **Live URL** | https://fieldsignal-ai.vercel.app/ |
 | **Walkthrough Video** | _[To be added after recording]_ |
 | **Planning Doc** | [planning/PLANNING.md](planning/PLANNING.md) |
 | **Architecture** | [docs/architecture.md](docs/architecture.md) |
