@@ -30,8 +30,16 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
-.env*
+# env files — private variants; .env.example is tracked as a safe template
+.env
+.env.local
+.env*.local
+.env.production
+.env.development
+.env.test
+
+# raw EIA API response cache
+/data/raw/
 
 # vercel
 .vercel
@@ -39,3 +47,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.claude/

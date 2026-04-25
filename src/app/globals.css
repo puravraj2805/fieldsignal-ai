@@ -1,26 +1,80 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background:     #060f1a;
+  --foreground:     #e2e8f0;
+
+  /* Semantic surface tokens */
+  --fs-surface:     #0c1824;   /* standard panels */
+  --fs-surface-hi:  #0e1f31;   /* elevated panels — Map, Analyst */
+  --fs-border:      #142030;   /* near-invisible separator */
+  --fs-border-hi:   #1d3a52;   /* elevated panel border */
+  --fs-accent:      #14b8a6;   /* teal-500 — interaction color */
+  --fs-accent-dim:  #0d9488;   /* teal-600 — hover */
+  --fs-oil:         #d97706;   /* amber-600 — oil data only */
+  --fs-oil-bright:  #f59e0b;   /* amber-500 — chart bars */
+  --fs-positive:    #2dd4bf;   /* teal-400 — positive / growth */
+  --fs-negative:    #fb7185;   /* rose-400 — negative / decline */
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-accent:     var(--fs-accent);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+/* Slim scrollbar */
+::-webkit-scrollbar        { width: 4px; height: 4px; }
+::-webkit-scrollbar-track  { background: #060f1a; }
+::-webkit-scrollbar-thumb  { background: #142030; border-radius: 2px; }
+::-webkit-scrollbar-thumb:hover { background: #1d3a52; }
+
+/* Mapbox GL popup — dark theme overrides */
+.mapboxgl-popup-content {
+  background: #0e1f31;
+  border: 1px solid #1d3a52;
+  border-radius: 10px;
+  padding: 0;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.6);
+}
+.mapboxgl-popup-tip {
+  display: none;
+}
+.mapboxgl-popup-close-button {
+  color: #4a6880;
+  font-size: 16px;
+  padding: 2px 8px;
+  line-height: 1.5;
+}
+.mapboxgl-popup-close-button:hover {
+  color: #e2e8f0;
+  background: transparent;
+}
+
+/* Popup content classes */
+.fs-popup { padding: 14px 16px; min-width: 188px; }
+.fs-popup-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: #f1f5f9;
+  margin-bottom: 10px;
+  padding-right: 14px;
+  letter-spacing: -0.01em;
+}
+.fs-popup-empty { font-size: 11px; color: #4a6880; }
+.fs-popup-table { width: 100%; border-collapse: collapse; font-size: 11px; }
+.fs-popup-table td { padding: 3px 0; color: #7a9ab8; }
+.fs-popup-table td:last-child {
+  text-align: right;
+  color: #f59e0b;   /* amber — oil/gas values */
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
 }

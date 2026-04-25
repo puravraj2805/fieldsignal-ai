@@ -1,0 +1,201 @@
+year,region,production_type,value,unit,months_reported,source
+2015,California,gas,236649.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2015,California,oil,201283.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2015,Colorado,gas,1688733.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2015,Colorado,oil,122133.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2015,New Mexico,gas,1296793.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2015,New Mexico,oil,148096.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2015,North Dakota,gas,584633.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2015,North Dakota,oil,429595.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2015,Ohio,gas,1007271.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2015,Ohio,oil,27102.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2015,Oklahoma,gas,2499598.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2015,Oklahoma,oil,165548.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2015,Pennsylvania,gas,4812981.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2015,Pennsylvania,oil,7091.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2015,Texas,gas,8799465.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2015,Texas,oil,1262738.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2015,West Virginia,gas,1315247.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2015,West Virginia,oil,8302.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2015,Wyoming,gas,1995920.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2015,Wyoming,oil,86457.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2016,California,gas,205024.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2016,California,oil,186080.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2016,Colorado,gas,1688376.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2016,Colorado,oil,115968.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2016,New Mexico,gas,1282666.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2016,New Mexico,oil,146633.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2016,North Dakota,gas,608850.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2016,North Dakota,oil,377801.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2016,Ohio,gas,1437285.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2016,Ohio,oil,21926.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2016,Oklahoma,gas,2468312.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2016,Oklahoma,oil,155034.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2016,Pennsylvania,gas,5210207.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2016,Pennsylvania,oil,6183.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2016,Texas,gas,8156299.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2016,Texas,oil,1170701.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2016,West Virginia,gas,1384460.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2016,West Virginia,oil,7635.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2016,Wyoming,gas,1848623.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2016,Wyoming,oil,72658.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2017,California,gas,212458.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2017,California,oil,173948.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2017,Colorado,gas,1710642.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2017,Colorado,oil,129943.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2017,New Mexico,gas,1323020.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2017,New Mexico,oil,172332.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2017,North Dakota,gas,688599.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2017,North Dakota,oil,390585.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2017,Ohio,gas,1791359.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2017,Ohio,oil,19961.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2017,Oklahoma,gas,2513897.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2017,Oklahoma,oil,165479.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2017,Pennsylvania,gas,5453639.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2017,Pennsylvania,oil,6461.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2017,Texas,gas,8079975.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2017,Texas,oil,1277308.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2017,West Virginia,gas,1514279.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2017,West Virginia,oil,8448.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2017,Wyoming,gas,1715733.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2017,Wyoming,oil,75745.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2018,California,gas,202616.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2018,California,oil,160659.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2018,Colorado,gas,1853422.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2018,Colorado,oil,169142.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2018,New Mexico,gas,1540985.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2018,New Mexico,oil,249302.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2018,North Dakota,gas,860817.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2018,North Dakota,oil,460414.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2018,Ohio,gas,2403382.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2018,Ohio,oil,22986.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2018,Oklahoma,gas,2875786.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2018,Oklahoma,oil,200709.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2018,Pennsylvania,gas,6264833.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2018,Pennsylvania,oil,6389.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2018,Texas,gas,9109174.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2018,Texas,oil,1612722.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2018,West Virginia,gas,1771699.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2018,West Virginia,oil,12738.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2018,Wyoming,gas,1720897.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2018,Wyoming,oil,87960.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2019,California,gas,196823.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2019,California,oil,156350.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2019,Colorado,gas,1991196.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2019,Colorado,oil,192231.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2019,New Mexico,gas,1818227.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2019,New Mexico,oil,336998.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2019,North Dakota,gas,1061091.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2019,North Dakota,oil,517672.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2019,Ohio,gas,2651631.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2019,Ohio,oil,27967.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2019,Oklahoma,gas,3036050.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2019,Oklahoma,oil,216931.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2019,Pennsylvania,gas,6896793.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2019,Pennsylvania,oil,6118.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2019,Texas,gas,10432505.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2019,Texas,oil,1864992.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2019,West Virginia,gas,2155213.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2019,West Virginia,oil,17255.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2019,Wyoming,gas,1547504.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2019,Wyoming,oil,102160.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2020,California,gas,157533.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2020,California,oil,144522.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2020,Colorado,gas,1999785.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2020,Colorado,oil,171514.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2020,New Mexico,gas,2005518.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2020,New Mexico,oil,377811.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2020,North Dakota,gas,986978.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2020,North Dakota,oil,433556.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2020,Ohio,gas,2389629.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2020,Ohio,oil,24151.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2020,Oklahoma,gas,2673207.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2020,Oklahoma,oil,172868.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2020,Pennsylvania,gas,7168901.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2020,Pennsylvania,oil,5298.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2020,Texas,gas,10489728.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2020,Texas,oil,1775175.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2020,West Virginia,gas,2567991.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2020,West Virginia,oil,19485.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2020,Wyoming,gas,1472872.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2020,Wyoming,oil,88997.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2021,California,gas,137539.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2021,California,oil,137144.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2021,Colorado,gas,1891912.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2021,Colorado,oil,153526.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2021,New Mexico,gas,2277035.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2021,New Mexico,oil,463502.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2021,North Dakota,gas,1075553.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2021,North Dakota,oil,405179.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2021,Ohio,gas,2278733.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2021,Ohio,oil,19093.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2021,Oklahoma,gas,2555428.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2021,Oklahoma,oil,147943.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2021,Pennsylvania,gas,7647071.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2021,Pennsylvania,oil,6334.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2021,Texas,gas,10743108.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2021,Texas,oil,1746469.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2021,West Virginia,gas,2675146.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2021,West Virginia,oil,17963.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2021,Wyoming,gas,1375455.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2021,Wyoming,oil,85251.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2022,California,gas,135985.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2022,California,oil,123119.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2022,Colorado,gas,1833420.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2022,Colorado,oil,160313.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2022,New Mexico,gas,2763664.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2022,New Mexico,oil,590106.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2022,North Dakota,gas,1072189.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2022,North Dakota,oil,386274.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2022,Ohio,gas,2274990.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2022,Ohio,oil,22458.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2022,Oklahoma,gas,2763067.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2022,Oklahoma,oil,151301.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2022,Pennsylvania,gas,7513567.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2022,Pennsylvania,oil,5195.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2022,Texas,gas,11438593.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2022,Texas,oil,1870577.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2022,West Virginia,gas,2845082.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2022,West Virginia,oil,15194.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2022,Wyoming,gas,1298566.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2022,Wyoming,oil,90650.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2023,California,gas,133178.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2023,California,oil,123185.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2023,Colorado,gas,1826766.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2023,Colorado,oil,166906.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2023,New Mexico,gas,3194365.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2023,New Mexico,oil,672270.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2023,North Dakota,gas,1187899.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2023,North Dakota,oil,431752.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2023,Ohio,gas,2226646.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2023,Ohio,oil,30337.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2023,Oklahoma,gas,2759503.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2023,Oklahoma,oil,156690.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2023,Pennsylvania,gas,7565631.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2023,Pennsylvania,oil,4833.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2023,Texas,gas,12232996.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2023,Texas,oil,2001888.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2023,West Virginia,gas,3140004.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2023,West Virginia,oil,18158.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2023,Wyoming,gas,1310060.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2023,Wyoming,oil,96740.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2024,California,gas,125751.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2024,California,oil,109828.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2024,Colorado,gas,1846820.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2024,Colorado,oil,170289.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2024,New Mexico,gas,3616819.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2024,New Mexico,oil,740402.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2024,North Dakota,gas,1253369.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2024,North Dakota,oil,437008.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2024,Ohio,gas,2155928.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2024,Ohio,oil,36591.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2024,Oklahoma,gas,2750607.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2024,Oklahoma,oil,146167.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2024,Pennsylvania,gas,7422303.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2024,Pennsylvania,oil,4448.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2024,Texas,gas,12918989.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2024,Texas,oil,2077134.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2024,West Virginia,gas,3417995.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2024,West Virginia,oil,13651.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn
+2024,Wyoming,gas,1343292.0,Million Cubic Feet (annual total),12,EIA v2 natural-gas/prod/sum
+2024,Wyoming,oil,106757.0,Thousand Barrels (annual total),12,EIA v2 petroleum/crd/crpdn

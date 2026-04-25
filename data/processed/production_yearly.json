@@ -1,0 +1,1802 @@
+[
+  {
+    "year": 2015,
+    "region": "California",
+    "production_type": "gas",
+    "value": 236649.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2015,
+    "region": "California",
+    "production_type": "oil",
+    "value": 201283.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2015,
+    "region": "Colorado",
+    "production_type": "gas",
+    "value": 1688733.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2015,
+    "region": "Colorado",
+    "production_type": "oil",
+    "value": 122133.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2015,
+    "region": "New Mexico",
+    "production_type": "gas",
+    "value": 1296793.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2015,
+    "region": "New Mexico",
+    "production_type": "oil",
+    "value": 148096.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2015,
+    "region": "North Dakota",
+    "production_type": "gas",
+    "value": 584633.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2015,
+    "region": "North Dakota",
+    "production_type": "oil",
+    "value": 429595.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2015,
+    "region": "Ohio",
+    "production_type": "gas",
+    "value": 1007271.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2015,
+    "region": "Ohio",
+    "production_type": "oil",
+    "value": 27102.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2015,
+    "region": "Oklahoma",
+    "production_type": "gas",
+    "value": 2499598.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2015,
+    "region": "Oklahoma",
+    "production_type": "oil",
+    "value": 165548.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2015,
+    "region": "Pennsylvania",
+    "production_type": "gas",
+    "value": 4812981.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2015,
+    "region": "Pennsylvania",
+    "production_type": "oil",
+    "value": 7091.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2015,
+    "region": "Texas",
+    "production_type": "gas",
+    "value": 8799465.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2015,
+    "region": "Texas",
+    "production_type": "oil",
+    "value": 1262738.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2015,
+    "region": "West Virginia",
+    "production_type": "gas",
+    "value": 1315247.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2015,
+    "region": "West Virginia",
+    "production_type": "oil",
+    "value": 8302.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2015,
+    "region": "Wyoming",
+    "production_type": "gas",
+    "value": 1995920.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2015,
+    "region": "Wyoming",
+    "production_type": "oil",
+    "value": 86457.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2016,
+    "region": "California",
+    "production_type": "gas",
+    "value": 205024.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2016,
+    "region": "California",
+    "production_type": "oil",
+    "value": 186080.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2016,
+    "region": "Colorado",
+    "production_type": "gas",
+    "value": 1688376.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2016,
+    "region": "Colorado",
+    "production_type": "oil",
+    "value": 115968.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2016,
+    "region": "New Mexico",
+    "production_type": "gas",
+    "value": 1282666.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2016,
+    "region": "New Mexico",
+    "production_type": "oil",
+    "value": 146633.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2016,
+    "region": "North Dakota",
+    "production_type": "gas",
+    "value": 608850.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2016,
+    "region": "North Dakota",
+    "production_type": "oil",
+    "value": 377801.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2016,
+    "region": "Ohio",
+    "production_type": "gas",
+    "value": 1437285.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2016,
+    "region": "Ohio",
+    "production_type": "oil",
+    "value": 21926.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2016,
+    "region": "Oklahoma",
+    "production_type": "gas",
+    "value": 2468312.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2016,
+    "region": "Oklahoma",
+    "production_type": "oil",
+    "value": 155034.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2016,
+    "region": "Pennsylvania",
+    "production_type": "gas",
+    "value": 5210207.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2016,
+    "region": "Pennsylvania",
+    "production_type": "oil",
+    "value": 6183.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2016,
+    "region": "Texas",
+    "production_type": "gas",
+    "value": 8156299.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2016,
+    "region": "Texas",
+    "production_type": "oil",
+    "value": 1170701.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2016,
+    "region": "West Virginia",
+    "production_type": "gas",
+    "value": 1384460.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2016,
+    "region": "West Virginia",
+    "production_type": "oil",
+    "value": 7635.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2016,
+    "region": "Wyoming",
+    "production_type": "gas",
+    "value": 1848623.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2016,
+    "region": "Wyoming",
+    "production_type": "oil",
+    "value": 72658.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2017,
+    "region": "California",
+    "production_type": "gas",
+    "value": 212458.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2017,
+    "region": "California",
+    "production_type": "oil",
+    "value": 173948.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2017,
+    "region": "Colorado",
+    "production_type": "gas",
+    "value": 1710642.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2017,
+    "region": "Colorado",
+    "production_type": "oil",
+    "value": 129943.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2017,
+    "region": "New Mexico",
+    "production_type": "gas",
+    "value": 1323020.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2017,
+    "region": "New Mexico",
+    "production_type": "oil",
+    "value": 172332.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2017,
+    "region": "North Dakota",
+    "production_type": "gas",
+    "value": 688599.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2017,
+    "region": "North Dakota",
+    "production_type": "oil",
+    "value": 390585.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2017,
+    "region": "Ohio",
+    "production_type": "gas",
+    "value": 1791359.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2017,
+    "region": "Ohio",
+    "production_type": "oil",
+    "value": 19961.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2017,
+    "region": "Oklahoma",
+    "production_type": "gas",
+    "value": 2513897.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2017,
+    "region": "Oklahoma",
+    "production_type": "oil",
+    "value": 165479.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2017,
+    "region": "Pennsylvania",
+    "production_type": "gas",
+    "value": 5453639.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2017,
+    "region": "Pennsylvania",
+    "production_type": "oil",
+    "value": 6461.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2017,
+    "region": "Texas",
+    "production_type": "gas",
+    "value": 8079975.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2017,
+    "region": "Texas",
+    "production_type": "oil",
+    "value": 1277308.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2017,
+    "region": "West Virginia",
+    "production_type": "gas",
+    "value": 1514279.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2017,
+    "region": "West Virginia",
+    "production_type": "oil",
+    "value": 8448.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2017,
+    "region": "Wyoming",
+    "production_type": "gas",
+    "value": 1715733.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2017,
+    "region": "Wyoming",
+    "production_type": "oil",
+    "value": 75745.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2018,
+    "region": "California",
+    "production_type": "gas",
+    "value": 202616.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2018,
+    "region": "California",
+    "production_type": "oil",
+    "value": 160659.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2018,
+    "region": "Colorado",
+    "production_type": "gas",
+    "value": 1853422.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2018,
+    "region": "Colorado",
+    "production_type": "oil",
+    "value": 169142.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2018,
+    "region": "New Mexico",
+    "production_type": "gas",
+    "value": 1540985.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2018,
+    "region": "New Mexico",
+    "production_type": "oil",
+    "value": 249302.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2018,
+    "region": "North Dakota",
+    "production_type": "gas",
+    "value": 860817.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2018,
+    "region": "North Dakota",
+    "production_type": "oil",
+    "value": 460414.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2018,
+    "region": "Ohio",
+    "production_type": "gas",
+    "value": 2403382.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2018,
+    "region": "Ohio",
+    "production_type": "oil",
+    "value": 22986.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2018,
+    "region": "Oklahoma",
+    "production_type": "gas",
+    "value": 2875786.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2018,
+    "region": "Oklahoma",
+    "production_type": "oil",
+    "value": 200709.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2018,
+    "region": "Pennsylvania",
+    "production_type": "gas",
+    "value": 6264833.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2018,
+    "region": "Pennsylvania",
+    "production_type": "oil",
+    "value": 6389.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2018,
+    "region": "Texas",
+    "production_type": "gas",
+    "value": 9109174.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2018,
+    "region": "Texas",
+    "production_type": "oil",
+    "value": 1612722.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2018,
+    "region": "West Virginia",
+    "production_type": "gas",
+    "value": 1771699.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2018,
+    "region": "West Virginia",
+    "production_type": "oil",
+    "value": 12738.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2018,
+    "region": "Wyoming",
+    "production_type": "gas",
+    "value": 1720897.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2018,
+    "region": "Wyoming",
+    "production_type": "oil",
+    "value": 87960.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2019,
+    "region": "California",
+    "production_type": "gas",
+    "value": 196823.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2019,
+    "region": "California",
+    "production_type": "oil",
+    "value": 156350.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2019,
+    "region": "Colorado",
+    "production_type": "gas",
+    "value": 1991196.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2019,
+    "region": "Colorado",
+    "production_type": "oil",
+    "value": 192231.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2019,
+    "region": "New Mexico",
+    "production_type": "gas",
+    "value": 1818227.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2019,
+    "region": "New Mexico",
+    "production_type": "oil",
+    "value": 336998.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2019,
+    "region": "North Dakota",
+    "production_type": "gas",
+    "value": 1061091.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2019,
+    "region": "North Dakota",
+    "production_type": "oil",
+    "value": 517672.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2019,
+    "region": "Ohio",
+    "production_type": "gas",
+    "value": 2651631.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2019,
+    "region": "Ohio",
+    "production_type": "oil",
+    "value": 27967.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2019,
+    "region": "Oklahoma",
+    "production_type": "gas",
+    "value": 3036050.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2019,
+    "region": "Oklahoma",
+    "production_type": "oil",
+    "value": 216931.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2019,
+    "region": "Pennsylvania",
+    "production_type": "gas",
+    "value": 6896793.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2019,
+    "region": "Pennsylvania",
+    "production_type": "oil",
+    "value": 6118.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2019,
+    "region": "Texas",
+    "production_type": "gas",
+    "value": 10432505.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2019,
+    "region": "Texas",
+    "production_type": "oil",
+    "value": 1864992.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2019,
+    "region": "West Virginia",
+    "production_type": "gas",
+    "value": 2155213.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2019,
+    "region": "West Virginia",
+    "production_type": "oil",
+    "value": 17255.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2019,
+    "region": "Wyoming",
+    "production_type": "gas",
+    "value": 1547504.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2019,
+    "region": "Wyoming",
+    "production_type": "oil",
+    "value": 102160.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2020,
+    "region": "California",
+    "production_type": "gas",
+    "value": 157533.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2020,
+    "region": "California",
+    "production_type": "oil",
+    "value": 144522.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2020,
+    "region": "Colorado",
+    "production_type": "gas",
+    "value": 1999785.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2020,
+    "region": "Colorado",
+    "production_type": "oil",
+    "value": 171514.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2020,
+    "region": "New Mexico",
+    "production_type": "gas",
+    "value": 2005518.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2020,
+    "region": "New Mexico",
+    "production_type": "oil",
+    "value": 377811.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2020,
+    "region": "North Dakota",
+    "production_type": "gas",
+    "value": 986978.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2020,
+    "region": "North Dakota",
+    "production_type": "oil",
+    "value": 433556.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2020,
+    "region": "Ohio",
+    "production_type": "gas",
+    "value": 2389629.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2020,
+    "region": "Ohio",
+    "production_type": "oil",
+    "value": 24151.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2020,
+    "region": "Oklahoma",
+    "production_type": "gas",
+    "value": 2673207.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2020,
+    "region": "Oklahoma",
+    "production_type": "oil",
+    "value": 172868.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2020,
+    "region": "Pennsylvania",
+    "production_type": "gas",
+    "value": 7168901.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2020,
+    "region": "Pennsylvania",
+    "production_type": "oil",
+    "value": 5298.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2020,
+    "region": "Texas",
+    "production_type": "gas",
+    "value": 10489728.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2020,
+    "region": "Texas",
+    "production_type": "oil",
+    "value": 1775175.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2020,
+    "region": "West Virginia",
+    "production_type": "gas",
+    "value": 2567991.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2020,
+    "region": "West Virginia",
+    "production_type": "oil",
+    "value": 19485.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2020,
+    "region": "Wyoming",
+    "production_type": "gas",
+    "value": 1472872.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2020,
+    "region": "Wyoming",
+    "production_type": "oil",
+    "value": 88997.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2021,
+    "region": "California",
+    "production_type": "gas",
+    "value": 137539.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2021,
+    "region": "California",
+    "production_type": "oil",
+    "value": 137144.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2021,
+    "region": "Colorado",
+    "production_type": "gas",
+    "value": 1891912.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2021,
+    "region": "Colorado",
+    "production_type": "oil",
+    "value": 153526.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2021,
+    "region": "New Mexico",
+    "production_type": "gas",
+    "value": 2277035.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2021,
+    "region": "New Mexico",
+    "production_type": "oil",
+    "value": 463502.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2021,
+    "region": "North Dakota",
+    "production_type": "gas",
+    "value": 1075553.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2021,
+    "region": "North Dakota",
+    "production_type": "oil",
+    "value": 405179.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2021,
+    "region": "Ohio",
+    "production_type": "gas",
+    "value": 2278733.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2021,
+    "region": "Ohio",
+    "production_type": "oil",
+    "value": 19093.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2021,
+    "region": "Oklahoma",
+    "production_type": "gas",
+    "value": 2555428.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2021,
+    "region": "Oklahoma",
+    "production_type": "oil",
+    "value": 147943.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2021,
+    "region": "Pennsylvania",
+    "production_type": "gas",
+    "value": 7647071.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2021,
+    "region": "Pennsylvania",
+    "production_type": "oil",
+    "value": 6334.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2021,
+    "region": "Texas",
+    "production_type": "gas",
+    "value": 10743108.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2021,
+    "region": "Texas",
+    "production_type": "oil",
+    "value": 1746469.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2021,
+    "region": "West Virginia",
+    "production_type": "gas",
+    "value": 2675146.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2021,
+    "region": "West Virginia",
+    "production_type": "oil",
+    "value": 17963.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2021,
+    "region": "Wyoming",
+    "production_type": "gas",
+    "value": 1375455.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2021,
+    "region": "Wyoming",
+    "production_type": "oil",
+    "value": 85251.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2022,
+    "region": "California",
+    "production_type": "gas",
+    "value": 135985.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2022,
+    "region": "California",
+    "production_type": "oil",
+    "value": 123119.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2022,
+    "region": "Colorado",
+    "production_type": "gas",
+    "value": 1833420.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2022,
+    "region": "Colorado",
+    "production_type": "oil",
+    "value": 160313.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2022,
+    "region": "New Mexico",
+    "production_type": "gas",
+    "value": 2763664.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2022,
+    "region": "New Mexico",
+    "production_type": "oil",
+    "value": 590106.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2022,
+    "region": "North Dakota",
+    "production_type": "gas",
+    "value": 1072189.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2022,
+    "region": "North Dakota",
+    "production_type": "oil",
+    "value": 386274.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2022,
+    "region": "Ohio",
+    "production_type": "gas",
+    "value": 2274990.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2022,
+    "region": "Ohio",
+    "production_type": "oil",
+    "value": 22458.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2022,
+    "region": "Oklahoma",
+    "production_type": "gas",
+    "value": 2763067.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2022,
+    "region": "Oklahoma",
+    "production_type": "oil",
+    "value": 151301.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2022,
+    "region": "Pennsylvania",
+    "production_type": "gas",
+    "value": 7513567.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2022,
+    "region": "Pennsylvania",
+    "production_type": "oil",
+    "value": 5195.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2022,
+    "region": "Texas",
+    "production_type": "gas",
+    "value": 11438593.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2022,
+    "region": "Texas",
+    "production_type": "oil",
+    "value": 1870577.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2022,
+    "region": "West Virginia",
+    "production_type": "gas",
+    "value": 2845082.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2022,
+    "region": "West Virginia",
+    "production_type": "oil",
+    "value": 15194.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2022,
+    "region": "Wyoming",
+    "production_type": "gas",
+    "value": 1298566.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2022,
+    "region": "Wyoming",
+    "production_type": "oil",
+    "value": 90650.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2023,
+    "region": "California",
+    "production_type": "gas",
+    "value": 133178.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2023,
+    "region": "California",
+    "production_type": "oil",
+    "value": 123185.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2023,
+    "region": "Colorado",
+    "production_type": "gas",
+    "value": 1826766.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2023,
+    "region": "Colorado",
+    "production_type": "oil",
+    "value": 166906.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2023,
+    "region": "New Mexico",
+    "production_type": "gas",
+    "value": 3194365.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2023,
+    "region": "New Mexico",
+    "production_type": "oil",
+    "value": 672270.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2023,
+    "region": "North Dakota",
+    "production_type": "gas",
+    "value": 1187899.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2023,
+    "region": "North Dakota",
+    "production_type": "oil",
+    "value": 431752.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2023,
+    "region": "Ohio",
+    "production_type": "gas",
+    "value": 2226646.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2023,
+    "region": "Ohio",
+    "production_type": "oil",
+    "value": 30337.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2023,
+    "region": "Oklahoma",
+    "production_type": "gas",
+    "value": 2759503.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2023,
+    "region": "Oklahoma",
+    "production_type": "oil",
+    "value": 156690.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2023,
+    "region": "Pennsylvania",
+    "production_type": "gas",
+    "value": 7565631.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2023,
+    "region": "Pennsylvania",
+    "production_type": "oil",
+    "value": 4833.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2023,
+    "region": "Texas",
+    "production_type": "gas",
+    "value": 12232996.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2023,
+    "region": "Texas",
+    "production_type": "oil",
+    "value": 2001888.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2023,
+    "region": "West Virginia",
+    "production_type": "gas",
+    "value": 3140004.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2023,
+    "region": "West Virginia",
+    "production_type": "oil",
+    "value": 18158.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2023,
+    "region": "Wyoming",
+    "production_type": "gas",
+    "value": 1310060.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2023,
+    "region": "Wyoming",
+    "production_type": "oil",
+    "value": 96740.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2024,
+    "region": "California",
+    "production_type": "gas",
+    "value": 125751.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2024,
+    "region": "California",
+    "production_type": "oil",
+    "value": 109828.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2024,
+    "region": "Colorado",
+    "production_type": "gas",
+    "value": 1846820.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2024,
+    "region": "Colorado",
+    "production_type": "oil",
+    "value": 170289.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2024,
+    "region": "New Mexico",
+    "production_type": "gas",
+    "value": 3616819.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2024,
+    "region": "New Mexico",
+    "production_type": "oil",
+    "value": 740402.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2024,
+    "region": "North Dakota",
+    "production_type": "gas",
+    "value": 1253369.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2024,
+    "region": "North Dakota",
+    "production_type": "oil",
+    "value": 437008.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2024,
+    "region": "Ohio",
+    "production_type": "gas",
+    "value": 2155928.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2024,
+    "region": "Ohio",
+    "production_type": "oil",
+    "value": 36591.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2024,
+    "region": "Oklahoma",
+    "production_type": "gas",
+    "value": 2750607.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2024,
+    "region": "Oklahoma",
+    "production_type": "oil",
+    "value": 146167.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2024,
+    "region": "Pennsylvania",
+    "production_type": "gas",
+    "value": 7422303.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2024,
+    "region": "Pennsylvania",
+    "production_type": "oil",
+    "value": 4448.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2024,
+    "region": "Texas",
+    "production_type": "gas",
+    "value": 12918989.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2024,
+    "region": "Texas",
+    "production_type": "oil",
+    "value": 2077134.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2024,
+    "region": "West Virginia",
+    "production_type": "gas",
+    "value": 3417995.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2024,
+    "region": "West Virginia",
+    "production_type": "oil",
+    "value": 13651.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  },
+  {
+    "year": 2024,
+    "region": "Wyoming",
+    "production_type": "gas",
+    "value": 1343292.0,
+    "unit": "Million Cubic Feet (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 natural-gas/prod/sum"
+  },
+  {
+    "year": 2024,
+    "region": "Wyoming",
+    "production_type": "oil",
+    "value": 106757.0,
+    "unit": "Thousand Barrels (annual total)",
+    "months_reported": 12,
+    "source": "EIA v2 petroleum/crd/crpdn"
+  }
+]
