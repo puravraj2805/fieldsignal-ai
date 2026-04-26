@@ -11,7 +11,7 @@ An executive-grade energy intelligence dashboard built on real U.S. EIA producti
 | | |
 |---|---|
 | **Live URL** | https://fieldsignal-ai.vercel.app/ |
-| **Walkthrough Video** | _[To be added after recording]_ |
+| **Walkthrough Video** | [Watch on Panopto](https://spu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=affd014d-08fd-41e8-9a39-b438000488bf) |
 | **Planning Doc** | [planning/PLANNING.md](planning/PLANNING.md) |
 | **Architecture** | [docs/architecture.md](docs/architecture.md) |
 | **KPI Definitions** | [docs/kpi_definitions.md](docs/kpi_definitions.md) |
@@ -22,7 +22,7 @@ An executive-grade energy intelligence dashboard built on real U.S. EIA producti
 
 ## Screenshots
 
-> Screenshots will be added after the live deployment is captured. See [docs/walkthrough.md](docs/walkthrough.md) for the demo video link placeholder.
+> Screenshots will be added after the live deployment is captured. See [docs/walkthrough.md](docs/walkthrough.md) for the demo video link.
 
 ---
 
@@ -398,4 +398,4 @@ The app runs without `ANTHROPIC_API_KEY` — the AI Analyst panel shows an unava
 
 ## License
 
-License: TBD — no license file is currently present in this repository.
+MIT License — Copyright (c) 2026 Purav Raj
