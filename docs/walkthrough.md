@@ -6,7 +6,7 @@
 
 ## Walkthrough Video
 
-> **Video link:** _[To be added after recording]_
+> **Video link:** [https://spu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=affd014d-08fd-41e8-9a39-b438000488bf](https://spu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=affd014d-08fd-41e8-9a39-b438000488bf)
 
 ---
 
